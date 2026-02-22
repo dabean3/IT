@@ -1,0 +1,17 @@
+commit 834b745bb7bf68442b06015ce8ec79d8bcee2348
+Author: hongdabean <fupji@naver.com>
+Date:   Sun Feb 22 16:41:04 2026 +0900
+
+    세 번째 커밋: 문구 수정
+
+commit 5416544aecc9618e32f323cf05eba416ba18bd4d
+Author: hongdabean <fupji@naver.com>
+Date:   Sun Feb 22 16:37:44 2026 +0900
+
+    README_update
+
+commit dda5f13203f47ea15e5bb55ba7e1416a6bea1596
+Author: hongdabean <fupji@naver.com>
+Date:   Sun Feb 22 16:10:16 2026 +0900
+
+    내 생애 첫 번째 커밋
