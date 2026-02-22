@@ -1,2 +1,1 @@
-# My First Git Project
-Learning-Git-is-fun!
+Learning Git is fun!
